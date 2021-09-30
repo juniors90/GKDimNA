@@ -9,7 +9,7 @@ The GAP package GKDimNA [building]
    :target: https://arxiv.org/abs/2106.10143
 
 .. image:: https://img.shields.io/badge/GAP-System-yellow
-   :target: https://img.shields.io/badge/GAP-System-yellow
+   :target: https://www.gap-system.org/
 
 .. image:: https://img.shields.io/badge/License-MIT-blue.svg
    :target: https://tldrlegal.com/license/mit-license
