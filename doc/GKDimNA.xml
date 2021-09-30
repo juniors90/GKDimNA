@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE Book SYSTEM "gapdoc.dtd">
+
+<Book Name="GKDimNA">
+
+<#Include SYSTEM "title.xml">
+<TableOfContents/>
+<Body>
+
+<Chapter> Introduction</Chapter>
+
+</Body>
+
+<Bibliography Databases="GKDimNA"/>
+<TheIndex/>
+</Book>

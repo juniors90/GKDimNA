@@ -1,0 +1,16 @@
+gap> Read("C:/gap-4.10.2/pkg/GKDimNA-0.0.1/tst/testall.g");
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Loading  GKDimNA 0.0.1 (On finite GK-dimensional Nichols algebras of diagonal type: rank 3 and Cartan type)
+by Juan David Ferreira (https://no-tengo-pagina-web-todavia.com).
+Homepage: https://juniors90.github.io/GKDimNA/
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Architecture: i686-pc-cygwin-default32-kv3
+
+testing: /proc/cygdrive/C/gap-4.10.2/pkg/GKDimNA-0.0.1/tst/test_case1.tst
+# line 1 of 12 (8%)# line 2 of 12 (16%)# line 3 of 12 (25%)# line 4 of 12 (33%)# line 5 of 12 (41%)# line 6 of 12 (50%)# line 7 of 12 (58%)# line 9 of 12 (75%)# line 10 of 12 (83%)# line 12 of 12 (100%)                                      117625 ms (4078 ms GC) and 1.44GB allocated for test_case1.tst
+-----------------------------------
+total    117625 ms (4078 ms GC) and 1.44GB allocated
+              0 failures in 1 files
+
+#I  No errors detected while testing
+

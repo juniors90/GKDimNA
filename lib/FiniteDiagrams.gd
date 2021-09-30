@@ -1,0 +1,2 @@
+DeclareGlobalFunction( "RootsinF" );
+DeclareGlobalFunction( "SetConcat" );

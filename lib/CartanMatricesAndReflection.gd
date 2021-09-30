@@ -1,0 +1,2 @@
+DeclareGlobalFunction( "mm" );
+DeclareGlobalFunction( "s" );
