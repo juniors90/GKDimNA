@@ -11,7 +11,7 @@ The GAP package GKDimNA [building]
 .. image:: https://img.shields.io/badge/GAP-System-yellow
    :target: https://www.gap-system.org/
 
-.. image:: https://img.shields.io/badge/License-MIT-blue.svg
+.. .. image:: https://img.shields.io/badge/License-MIT-blue.svg
    :target: https://tldrlegal.com/license/mit-license
 
 `GKDimNA packages <https://github.com/juniors90/GKDimNA/>`_ - On
@@ -45,12 +45,14 @@ The GKDimNA Package has a `proper documentation
 <https://github.com/juniors90/GKDimNA/>`_, which you can check for more
 details.
 
-## Contact
+Contact
+--------
 
 TODO: add info on how to contact you and/or how to report issues with your
 package
 
-## License
+License
+---------
 
 TODO: Provide information on the license of your package. A license is
 important as it determines who has a right to distribute your package. The
