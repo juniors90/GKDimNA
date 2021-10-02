@@ -64,12 +64,12 @@ Status := "dev",
 AbstractHTML   :=  "",
 
 PackageDoc := rec(
-  BookName  := "GKDimNA",
+  BookName  := ~.PackageName,
   ArchiveURLSubset := ["doc"],
   HTMLStart := "doc/chap0.html",
   PDFFile   := "doc/manual.pdf",
   SixFile   := "doc/manual.six",
-  LongTitle := "On finite GK-dimensional Nichols algebras of diagonal type: rank 3 and Cartan type",
+  LongTitle := ~.Subtitle,
 ),
 
 Dependencies := rec(

@@ -14,7 +14,7 @@ r := Indeterminate(Rationals, "r" );
 # We denote by "K" the field of rational functions on those two variables. 
 K := Field(q,r);;
 # "F1" (also, later F(1)) and "F0" will denote the unit and the null element of the field "K"
-F1 := One(K);;
-F0 := Zero(K);;
+F1 := One( K );;
+F0 := Zero( K );;
 # we define our roots in the field K, they shall be called "F()" instead of E():
 F := n->E(n)*F1;
